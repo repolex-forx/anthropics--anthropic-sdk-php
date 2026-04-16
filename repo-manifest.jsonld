@@ -10,7 +10,7 @@
       "git:hexsha": "723229c47833e6d180ce43b8b8af7d56cba26ea7",
       "repolex:parseStatus": "parsed",
       "git:tagName": "v0.12.0",
-      "repolex:parsedAt": "2026-04-16T01:31:25.751275+00:00"
+      "repolex:parsedAt": "2026-04-16T02:06:58.076297+00:00"
     },
     {
       "@id": "https://repolex.ai/r/anthropics/anthropic-sdk-php/commit/06fee5766e166aef7e8d69c94c329067e0c8e603",
